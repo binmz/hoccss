@@ -1,3 +1,13 @@
 .text-center {
     text-align: center;
+} 
+.color {
+    color: green;
+    background: wheat;
+    padding: 3px 3px 5px 3px;
+    margin: 3px 3px 3px 3px;
+    height: 25px; /*Chiều cao của thẻ*/
+    width: 300px; /*Chiều dài của thẻ*/
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic; 
 }
