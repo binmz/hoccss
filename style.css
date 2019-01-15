@@ -5,5 +5,8 @@
 .something {
     color: #fff;
     background: #333;
-    padding: 3px 3px 3px 3px; /*Thứ tự: Trên, Trái, Dưới, Phải*/
+    padding: 10px 10px 10px 10px; /*Thứ tự: Trên, Trái, Dưới, Phải*/
+    margin: 10px 10px 10px 10px; /*Thứ tự: Trên, Trái, Dưới, Phải*/
+    height: 20px; /*Chiều cao của thẻ*/
+    width: 100%; /*Chiều dài của thẻ*/
 }
