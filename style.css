@@ -3,6 +3,7 @@
 }
 
 .something {
+    color: #fff;
     background: #333;
     padding: 3px 3px 3px 3px; /*Thứ tự: Trên, Trái, Dưới, Phải*/
 }
