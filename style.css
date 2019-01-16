@@ -2,12 +2,19 @@
     text-align: center;
 } 
 .color {
-    color: green;
+    color: black;
     background: wheat;
-    padding: 3px 3px 5px 3px;
-    margin: 3px 3px 3px 3px;
-    height: 25px; /*Chiều cao của thẻ*/
+    padding: 4px 4px 4px 4px;
+    margin: 4px 4px 4px 4px;
+    height: 20px; /*Chiều cao của thẻ*/
     width: 300px; /*Chiều dài của thẻ*/
     font-family: 'Courier New', Courier, monospace;
     font-style: italic; 
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px
+}
+body {
+    background-color: antiquewhite
 }
