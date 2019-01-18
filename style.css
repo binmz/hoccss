@@ -2,7 +2,7 @@
     text-align: center;
 } 
 .color {
-    color: black;
+    color: green;
     background: wheat;
     padding: 4px 4px 4px 4px;
     margin: 4px 4px 4px 4px;
@@ -16,5 +16,7 @@ p {
     font-size: 15px
 }
 body {
-    background-color: antiquewhite
+    background-color: antiquewhite;
+    background: url("1.png") repeat center;
+    
 }
